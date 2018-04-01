@@ -1,6 +1,7 @@
 #device-list.txt
 #Device hosts file referenced by bgp-peer.py
 #All lines with "#" will be ignored
+#Ensure no Blank lines are at end of file
 #
 #Enter hostname or IP address of Router below
 # e.g. myrouter01
