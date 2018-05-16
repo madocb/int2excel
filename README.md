@@ -13,7 +13,7 @@ Collect device interface status and write to an excel file, one sheet per device
 - Collate network wide interface details.
 - Quick network-wide audit of all interfaces.
 
-## How do I use bgp-peer:
+## How do I use int2excel:
 - Enter your device hostnames or IP addresses into `device-list.txt`
 - Run the script: `python int2excel.py`
 - Enter your common username and password.
